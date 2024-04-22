@@ -1,0 +1,11 @@
+langchain_openai 
+langchain_core
+streamlit
+langchain_community
+langserve
+bs4
+pypdf
+faiss-cpu
+openai
+langchain
+PyPDF2
